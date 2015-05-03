@@ -40,7 +40,7 @@ module.exports = function(config) {
     'sl_safari': {
       base: 'SauceLabs',
       browserName: 'safari',
-      version: 'dev'
+      platform: 'OSX 10.8'
     }
   };
 
